@@ -1,5 +1,9 @@
 # HScodeManager
 
+## Cách cài đặt:
+
+* Dùng Git: `git clone https://github.com/devshop2019/HScodeManager.git --recursive`
+
 ## Hướng dẫn cách sử dụng
 
 * Đối với Kit phát triển, mạch nạp ---> Test nạp code (debug nếu có) được
