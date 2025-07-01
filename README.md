@@ -12,19 +12,25 @@
 
 Sau khi mở Arduino IDE, tiến hành làm theo các bước sau:
 
-* B1: Vào mục File -> Preferences
+* __B1: Vào mục File -> Preferences__
 ![HDSD001](/images/1.png)
-* B2: Tại mục "Sketchbook location:", hãy trỏ đến thư mục có tên cùng mã
+
+* __B2: Tại mục "Sketchbook location:", hãy trỏ đến thư mục có tên cùng mã__
 ![HDSD002](/images/2.png)
-* B3: Vào mục File -> Sketchbook -> examples để chọn code mẫu
+
+* __B3: Vào mục File -> Sketchbook -> examples để chọn code mẫu__
 ![HDSD003](/images/3.png)
-* B4: Vào Tools, mục "Board" chọn "Arduino UNO", mục "Port" chọn "COMx" (x tùy máy, miễn đúng là của board UNO)
+
+* __B4: Vào Tools, mục "Board" chọn "Arduino UNO", mục "Port" chọn "COMx" (x tùy máy, miễn đúng là của board UNO)__
 ![HDSD004](/images/4.png)
-* B5: Nạp code (Chắc chắn thành công nếu như làm đúng các bước trên)
+
+* __B5: Nạp code (Chắc chắn thành công nếu như làm đúng các bước trên)__
 ![HDSD005](/images/5.png)
-* B6: Tắt nguồn, đấu dây (Wiring)
+
+* __B6: Tắt nguồn, đấu dây (Wiring)__
 ![HDSD006](/images/6.png)
-* B7: Cập điện UNO, xem KQ
+
+* __B7: Cập điện UNO, xem KQ__
 ![HDSD007](/images/7.png)
 
 <video width="640" height="360" controls>
